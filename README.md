@@ -1,7 +1,7 @@
 ## Solar System ARKit
 <img src="https://github.com/user-attachments/assets/a018f151-41ae-4df4-a32a-8619c5bd5fac" alt="Ekran-Kaydı-2024-10-18" style="width:240px; height:426px;" />
 <details>
-    <summary><h2>Uygulma Amacı</h2></summary>
+    <summary><h2>Uygulama Amacı</h2></summary>
   Uygulama, artırılmış gerçeklik ile Güneş Sistemi'ndeki gezegenleri kullanıcılara sunuyor,iOS platformunda ARKit ve SceneKit kullanarak artırılmış gerçeklik (AR) deneyimi oluşturan bir uygulamanın parçasıdır. ARSCNView, AR (Artırılmış Gerçeklik) içeriklerini görüntülemek için kullanılan bir SceneKit tabanlı bir görünümdür. Kodda, bazı gezegenlerin (Mars, Venüs ve Dünya) 3D küreler şeklinde ekrana yerleştirildiğini ve kullanıcının cihazını hareket ettirerek bu kürelere AR ortamında bakabileceğini görebiliyoruz.
   </details> 
 
