@@ -43,7 +43,7 @@
     <tr>
         <td style="text-align: center; width: 16.67%;">
             <h4 style="font-size: 14px;">ARKit Karanlik Cevredeki Performans Gorseli </h4>
-            <img src="https://github.com/user-attachments/assets/2b545ec8-6259-4de8-a164-fea552798462" style="width: 100%; height: auto;">
+            <img src="https://github.com/user-attachments/assets/a0eb3391-a342-421c-bcc5-c19c087e9475" style="width: 100%; height: auto;">
         </td>
       <td style="text-align: center; width: 16.67%;">
             <h4 style="font-size: 14px;">ARKit Aydinlik Cevredeki Performans Gorseli  </h4>
