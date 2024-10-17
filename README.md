@@ -42,15 +42,15 @@
  <table style="width: 100%;">
     <tr>
         <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Görüntü İşleme Sonuçları 1 </h4>
+            <h4 style="font-size: 14px;">ARKit Karanlik Cevredeki Performans Gorseli </h4>
             <img src="https://github.com/user-attachments/assets/2b545ec8-6259-4de8-a164-fea552798462" style="width: 100%; height: auto;">
         </td>
       <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Görüntü İşleme Sonuçları 1 </h4>
+            <h4 style="font-size: 14px;">ARKit Aydinlik Cevredeki Performans Gorseli  </h4>
             <img src="https://github.com/user-attachments/assets/b9681d71-f270-458a-b75d-b15a1eec968c" style="width: 100%; height: auto;">
         </td>
       <td style="text-align: center; width: 16.67%;">
-            <h4 style="font-size: 14px;">Görüntü İşleme Sonuçları 1 </h4>
+            <h4 style="font-size: 14px;">ARKit Aydinlik Cevredeki Performans Gorseli  </h4>
             <img src="https://github.com/user-attachments/assets/7739d4de-2976-41bd-b92f-48ade9ea3b69" style="width: 100%; height: auto;">
         </td>
     </tr>
